@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA in java, machine learning
 - 💞️ I’m looking to collaborate on still new to this
 - 📫 How to reach me shardulmahindrakar25@gmail.com
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a karate black belt :)
 
 <!---
